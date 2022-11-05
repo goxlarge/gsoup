@@ -1,4 +1,4 @@
-package page
+package doc
 
 import (
 	"bytes"

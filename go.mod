@@ -1,4 +1,4 @@
-module github.com/goxlarge/gopage
+module github.com/goxlarge/gsoup
 
 go 1.19
 
